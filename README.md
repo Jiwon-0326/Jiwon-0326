@@ -1,10 +1,8 @@
 Hi 👋
 
-This is 
+This is
 
-![header](https://Jiwon%Hwnang's%Github.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=capsule%20render&fontSize=70&animation=blinking
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Hi&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Jiwon%20Hwnang's%20Github&animation=blink&fontSize=90)
 
 
 <!--
