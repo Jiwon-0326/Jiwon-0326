@@ -4,6 +4,9 @@ This is
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=random&fontColor=3f5ae0&height=120&section=header&text=Jiwon%20Hwnang's%20Github&animation=blink&fontSize=60)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Jiwon-0326/Jiwon-0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
