@@ -2,7 +2,7 @@ Hi 👋
 
 This is
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=6994CDEE&height=120&section=header&text=Jiwon%20Hwnang's%20Github&animation=blink&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Jiwon%20Hwnang's%20Github&animation=blink&fontSize=60)
 
 
 <!--
