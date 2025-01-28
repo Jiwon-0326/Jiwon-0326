@@ -6,6 +6,8 @@ This is
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwon-0326&layout=compact)](https://github.com/Jiwon-0326/github-readme-stats)
 
+🌱 Look at my portfolio! 
+https://yummy-krill-6b6.notion.site/s-189f7bc37f5480d9831ad75ef0195911 
 
 
 <!--
